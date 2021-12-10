@@ -1,0 +1,19 @@
+{
+    "name": "battleship",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wahaha-007/BattleShip.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Wahaha-007/BattleShip/issues"
+    },
+    "homepage": "https://github.com/Wahaha-007/BattleShip#readme"
+}
